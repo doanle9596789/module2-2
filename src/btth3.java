@@ -16,8 +16,9 @@ public class btth3 {
           if (a>b){
               a=a-b;
           }else {
-              b=b-b;
+              b=b-a;
           }System.out.println("Greatest common factor:" + " "+ a);
+          break;
       }
 
     }
