@@ -20,7 +20,6 @@ public class bt2 {
                 }if (ok){
                         System.out.println(check);
                         count++;
-
             }check++;
             }
         }
